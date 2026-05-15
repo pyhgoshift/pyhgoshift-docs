@@ -11,4 +11,4 @@
 | 날짜 | 주요 내용 |
 |---|---|
 | [2026-05-14](2026-05-14_구축기록.md) | 초기 폴더 구조 생성, Git·Node.js·Docker 설치 |
-| [2026-05-15](2026-05-15_구축기록.md) | CLAUDE.md v2.0 교체, knowledge_base 구조 생성 |
+| [2026-05-15](2026-05-15_구축기록.md) | CLAUDE.md v2.0, knowledge_base, GitHub 6개 repo, docs.pyhgoshift.com, 폴더 구조 전체 기록 |

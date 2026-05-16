@@ -12,3 +12,4 @@
 |---|---|
 | [2026-05-14](2026-05-14_구축기록.md) | 초기 폴더 구조 생성, Git·Node.js·Docker 설치 |
 | [2026-05-15](2026-05-15_구축기록.md) | CLAUDE.md v2.0, knowledge_base, GitHub 6개 repo, docs.pyhgoshift.com, 폴더 구조 전체 기록 |
+| [2026-05-16](2026-05-16_구축기록.md) | n8n.pyhgoshift.com 확인, Telegram Quick KB 워크플로우 JSON 생성 |
